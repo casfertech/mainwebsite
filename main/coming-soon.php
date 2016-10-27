@@ -24,7 +24,7 @@
 
 <body>
     <div class="logo-image">                                
-       <a href="index.html"><img class="img-responsive" src="images/logo.png" alt=""> </a> 
+       <a href="index.php"><img class="img-responsive" src="images/logo.png" alt=""> </a> 
     </div>
      <section id="coming-soon">        
          <div class="container">
@@ -108,7 +108,7 @@
     <script type="text/javascript">
             //Countdown js
          $("#countdown").countdown({
-                date: "10 march 2015 12:00:00",
+                date: "10 march 2019 12:00:00",
                 format: "on"
             },      
             function() {
