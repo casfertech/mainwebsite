@@ -52,8 +52,10 @@
             <div class="contact-info">
                 <h2>Contacts</h2>
                         <address>
+                        E-mail: <a href="mailto:business@casfertechnologies.com">business@casfertechnologies.com</a> <br> 
                         E-mail: <a href="mailto:casfertechnologies@gmail.com">casfertechnologies@gmail.com</a> <br> 
                         Phone: +91 8408881080 <br> 
+                        Phone: +91 7719855705 <br> 
                         </address>
 
                         <h2>Address</h2>
@@ -61,7 +63,7 @@
                         Veroda, Cuncolim <br> 
                         Salcete, Goa <br> 
                         INDIA <br> 
-                        </address>> 
+                        </address>
                 </address>
             </div>
         </div>
