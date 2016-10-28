@@ -6,24 +6,24 @@
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="testimonial bottom">
-                        <h2>Testimonial</h2>
+                        <!-- <h2>Testimonial</h2> -->
                         <div class="media">
                             <div class="pull-left">
                                 <a href="#"><img src="images/home/profile1.png" alt=""></a>
                             </div>
-                            <div class="media-body">
+ <!--                            <div class="media-body">
                                 <blockquote>Nisi commodo bresaola, leberkas venison eiusmod bacon occaecat labore tail.</blockquote>
                                 <h3><a href="#">- Jhon Kalis</a></h3>
-                            </div>
+                            </div> -->
                          </div>
                         <div class="media">
                             <div class="pull-left">
                                 <a href="#"><img src="images/home/profile2.png" alt=""></a>
                             </div>
-                            <div class="media-body">
+<!--                             <div class="media-body">
                                 <blockquote>Capicola nisi flank sed minim sunt aliqua rump pancetta leberkas venison eiusmod.</blockquote>
                                 <h3><a href="">- Abraham Josef</a></h3>
-                            </div>
+                            </div> -->
                         </div>   
                     </div> 
                 </div>
@@ -31,8 +31,10 @@
                     <div class="contact-info bottom">
                         <h2>Contacts</h2>
                         <address>
+                        E-mail: <a href="mailto:business@casfertechnologies.com">business@casfertechnologies.com</a> <br> 
                         E-mail: <a href="mailto:casfertechnologies@gmail.com">casfertechnologies@gmail.com</a> <br> 
                         Phone: +91 8408881080 <br> 
+                        Phone: +91 7719855705 <br> 
                         </address>
 
                         <h2>Address</h2>

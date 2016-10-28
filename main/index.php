@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="">
-    <title>Home | Triangle</title>
+    <meta name="author" content="CasFer Technologies">
+    <title>CasFer Technologies</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet"> 
@@ -35,15 +35,15 @@
             <div class="row">
                 <div class="main-slider">
                     <div class="slide-text">
-                        <h1>We Are Creative Nerds</h1>
-                        <p>Boudin doner frankfurter pig. Cow shank bresaola pork loin tri-tip tongue venison pork belly meatloaf short loin landjaeger biltong beef ribs shankle chicken andouille.</p>
-                        <a href="#" class="btn btn-common">SIGN UP</a>
+                        <h1>Undisrupting</h1>
+                        <p>Supply chain through technology</p>
                     </div>
                     <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
                     <img src="images/home/slider/house.png" class="slider-house" alt="slider image">
                     <img src="images/home/slider/sun.png" class="slider-sun" alt="slider image">
-                    <img src="images/home/slider/birds1.png" class="slider-birds1" alt="slider image">
+                    <!-- <img src="images/home/slider/birds1.png" class="slider-birds1" alt="slider image"> -->
                     <img src="images/home/slider/birds2.png" class="slider-birds2" alt="slider image">
+                    <img src="images/home/truck.png" class="slider-cycle" alt="">
                     
                 </div>
             </div>
@@ -58,10 +58,10 @@
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <img src="images/home/icon1.png" alt="">
+                            <img src="images/home/pic01.png" alt="">
                         </div>
-                        <h2>Incredibly Responsive</h2>
-                        <p>Ground round tenderloin flank shank ribeye. Hamkevin meatball swine. Cow shankle beef sirloin chicken ground round.</p>
+                        <h2>FreightRates</h2>
+                        <p>Our flagship service, bringing the transporters and customer closer.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -69,8 +69,8 @@
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
                             <img src="images/home/icon2.png" alt="">
                         </div>
-                        <h2>Superior Typography</h2>
-                        <p>Hamburger ribeye drumstick turkey, strip steak sausage ground round shank pastrami beef brisket pancetta venison.</p>
+                        <h2>Software Development</h2>
+                        <p>Catering to all your software needs. Desktop, web or mobile look no further!</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -78,8 +78,8 @@
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
                             <img src="images/home/icon3.png" alt="">
                         </div>
-                        <h2>Swift Page Builder</h2>
-                        <p>Venison tongue, salami corned beef ball tip meatloaf bacon. Fatback pork belly bresaola tenderloin bone pork kevin shankle.</p>
+                        <h2>Product Sourcing</h2>
+                        <p>A venture based in India in the process of simplifying and revolutionizing supply chain processes for our customers.</p>
                     </div>
                 </div>
             </div>
