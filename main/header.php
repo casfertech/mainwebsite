@@ -6,7 +6,7 @@
                         <ul class="nav nav-pills">
                             <li><a href="https://www.facebook.com/freightrates.in" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/casfertech" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="http://localhost:8888/stuff/triangle/main/mainwebsite/www.linkedin.com/in/freightrates-in-9049a0127" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="http://www.linkedin.com/in/freightrates-in-9049a0127" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div> 
                 </div>
@@ -34,8 +34,9 @@
                             <ul role="menu" class="sub-menu">
                                 <li><a href="service.php">Software development</a></li>
                                 <li><a href="portfolio-details.php">Web development</a></li>
-                                <li><a href="#">FreightRates</a></li>  
-                                <li><a href="#">Product sourcing</a></li>
+                                <li><a href="freightrates.php">FreightRates</a></li>  
+                                <li><a href="product-sourcing.php">Product sourcing</a></li>
+                                <li><a href="coming-soon.php">Coming soon</a></li>
                             </ul>
                         </li>                    
                         <li class="dropdown"><a href="#">Portfolio <i class="fa fa-angle-down"></i></a>
@@ -43,6 +44,7 @@
                                 <li><a href="portfolio.php">Portfolio Default</a></li>
                             </ul>
                         </li> 
+
                         <li><a href="http://casfertech.github.io/" target="_blank">Blog</a></li>
                         <li><a href="contact.php">Contact us </a></li>                        
                         <li><a href="aboutus.php">About us</a></li>                    

@@ -23,20 +23,17 @@
 </head><!--/head-->
 
 <body>
-
-    <?php
-        include "header.php";
-    ?>
-    <!--/#header-->
-
+    <div class="logo-image">                                
+       <a href="index.php"><img class="img-responsive" src="images/logo.png" alt=""> </a> 
+    </div>
      <section id="coming-soon">        
          <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">                    
                     <div class="text-center coming-content">
                         <h1>UNDER CONSTRUCTION</h1>
-                        <p>We have been spending long hours in order to launch our new products. 
-                            Stay tuned for all our products!</p>                              
+                        <p>We have been spending long hours in order to launch our new website. 
+                            We will offer freebies, a brand new blog and featured content of our latest work. Join our mailing list or follow us on<br /> Facebook or Twitter to stay up to date.</p>                           
                         <div class="social-link">
                             <span><a href="#"><i class="fa fa-facebook"></i></a></span>
                             <span><a href="#"><i class="fa fa-twitter"></i></a></span>
@@ -75,8 +72,8 @@
                 <div class="col-sm-10 col-sm-offset-1">
                     <div class="row">
                         <div class="col-sm-6">
-                            <h2><i class="fa fa-envelope-o"></i> For more information</h2>
-                            <p>Contact us for some insider details!</p>
+                            <h2><i class="fa fa-envelope-o"></i> SUBSCRIBE TO OUR NEWSLETTER</h2>
+                            <p>Quis filet mignon proident, laboris venison tri-tip commodo brisket aute ut. Tail salami pork belly, flank ullamco bacon bresaola do beef<br /> laboris venison tri-tip.</p>
                         </div>
                         <div class="col-sm-6 newsletter">
                             <form id="newsletter">
@@ -91,10 +88,17 @@
         </div> 
     </section>
 
-    <?php
-        include "footer.php";
-    ?>
-    <!--/#footer-->
+    <section id="coming-soon-footer" class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="text-center">
+                    <p>&copy; Your Company 2014. All Rights Reserved.</p>
+                    <p>Designed by <a target="_blank" href="http://www.themeum.com">Themeum</a></p>
+                </div>
+            </div>
+        </div>       
+    </section>
+    
 
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -104,7 +108,7 @@
     <script type="text/javascript">
             //Countdown js
          $("#countdown").countdown({
-                date: "10 November 2016 12:00:00",
+                date: "10 march 2019 12:00:00",
                 format: "on"
             },      
             function() {

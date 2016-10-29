@@ -98,7 +98,7 @@
                         </div>
                         <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
-                                <a href="#" class="btn btn-common">TAKE THE TOUR OF CASE STUDIES</a>
+                                <a href="#" class="btn btn-common">CASE STUDIES TOUR</a>
                              </div>
                         </div>
                     </div>
