@@ -13,6 +13,7 @@
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
 
+
     <!--[if lt IE 9]>
 	    <script src="js/html5shiv.js"></script>
 	    <script src="js/respond.min.js"></script>
@@ -35,7 +36,8 @@
             <div class="row">
                 <div class="main-slider">
                     <div class="slide-text">
-                        <h1>Undisrupting</h1>
+                        <div class="lemonada-script">Undisrupting </div>
+                        </br>
                         <p>Supply chain through technology</p>
                     </div>
                     <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
@@ -98,7 +100,7 @@
                         </div>
                         <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
-                                <a href="#" class="btn btn-common">CASE STUDIES TOUR</a>
+                                <a href="#" class="btn btn-common">TOUR CASE STUDIES </a>
                              </div>
                         </div>
                     </div>
@@ -117,7 +119,7 @@
                     </div>
                     <div class="col-sm-6 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                         <h2>Embarcadero Delphi</h2>
-                        <P>We have over 6 + years of experience in Delphi programming langauge, right from
+                        <P>We have over 6 + years of experience in Delphi programming language, right from
                         Delphi 6 till RAD Studio 10.1 Berlin</P>
                     </div>
                 </div>

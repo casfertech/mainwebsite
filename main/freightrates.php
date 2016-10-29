@@ -64,11 +64,15 @@
                     </div>
                     <div class="project-info overflow">
                         <h3>Project Info</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus nibh sed elimttis adipiscing. Fusce in hendrerit purus. Suspendisse potenti. Proin quis eros odio, dapibus dictum mauris. Donec nisi libero, adipiscing id pretium eget, consectetur sit amet leo. Nam at eros quis mi egestas fringilla non nec purus.</p>
+                        <p>Freight is our flagship service, according to survey we conducted the transportation of goods in Goa and for that matter in whole of India is highly dis organized. Its very difficult to get you hands on a transporter at reasonable price! So <b>Freightrates</b> was born to make sure its doesn't remain the same. </p>
                         <ul class="elements">
-                            <li><i class="fa fa-angle-right"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                            <li><i class="fa fa-angle-right"></i> Donec tincidunt felis quis ipsum porttitor, non rutrum lorem rhoncus.</li>
-                            <li><i class="fa fa-angle-right"></i> Nam in quam consectetur nulla placerat dapibus ut ut nunc.</li>
+                            <li><i class="fa fa-angle-right"></i>Package Delivery</li>
+                            <p>Length, width, height & weight that's all we need to transport your freight. Get the best rates for transporting any kind of package.
+                            </p>
+
+                            <li><i class="fa fa-angle-right"></i>Vehicle Request</li>
+                            <p>From an auto carrier to a truck to a trailer. You name it, we have it. You vehicle of choice is just a click away!
+                            </p>
                         </ul>
                     </div>
                     <div class="skills overflow">
@@ -78,8 +82,8 @@
                             <li><a href="#"><i class="fa fa-check-square"></i>Survey</a></li>
                             <li><a href="#"><i class="fa fa-check-square"></i>Design</a></li>
                             <li><a href="#"><i class="fa fa-check-square"></i>HTML/CSS</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Javascript</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Backend</a></li>
+                            <li><a href="#"><i class="fa fa-check-square"></i>JavaScript</a></li>
+                            <li><a href="#"><i class="fa fa-check-square"></i>Back-end</a></li>
                         </ul>
                     </div>
                     <div class="live-preview">
