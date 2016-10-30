@@ -33,7 +33,7 @@
                         <li class="dropdown"><a href="#">Services <i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
                                 <li><a href="software-development.php">Software development</a></li>
-                                <li><a href="portfolio-details.php">Web development</a></li>
+<!--                                 <li><a href="portfolio-details.php">Web development</a></li> -->
                                 <li><a href="freightrates.php">FreightRates</a></li>  
                                 <li><a href="product-sourcing.php">Product sourcing</a></li>
                                 <li><a href="coming-soon.php">Coming soon</a></li>
@@ -41,7 +41,7 @@
                         </li>                    
                         <li class="dropdown"><a href="#">Portfolio <i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
-                                <li><a href="portfolio.php">Portfolio Default</a></li>
+                                <li><a href="portfolio.php">All</a></li>
                             </ul>
                         </li> 
 

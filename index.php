@@ -126,7 +126,7 @@
                 <div class="single-features">
                     <div class="col-sm-6 col-sm-offset-1 align-right wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
                         <h2>Built for the Responsive Web</h2>
-                        <P>Great experience in building web application using one of most favored platform for amazing single page applications!.</P>
+                        <P>Great experience in building web application using one of most favored platform for amazing single page applications!</P>
                     </div>
                     <div class="col-sm-5 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                         <img src="images/home/angular_development.png" class="img-responsive" alt="">

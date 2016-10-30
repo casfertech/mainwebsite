@@ -54,14 +54,14 @@
                 </div>
                 <div class="col-sm-6 padding-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <h2>Why Choose Us?</h2>
-                    <p>We are dedicated and committed in delivering to you quality
-                    software that you can rely on.</p>
+                    <p></p>
                     <ul class="elements">
-                        <li class="wow fadeInUp" data-wow-duration="900ms" data-wow-delay="100ms"><i class="fa fa-angle-right"></i> when an unknown printer took a galley of type</li>
-                        <li class="wow fadeInUp" data-wow-duration="800ms" data-wow-delay="200ms"><i class="fa fa-angle-right"></i> scrambled it to make a type specimen book.</li>
-                        <li class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms"><i class="fa fa-angle-right"></i> scrambled it to make a type specimen book.</li>
-                        <li class="wow fadeInUp" data-wow-duration="600ms" data-wow-delay="400ms"><i class="fa fa-angle-right"></i> scrambled it to make a type specimen book.</li>
-                        <li class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms"><i class="fa fa-angle-right"></i> but also the leap into electronic typesetting.</li>
+                        <li class="wow fadeInUp" data-wow-duration="900ms" data-wow-delay="100ms"><i class="fa fa-angle-right"></i> We are dedicated.</li>
+                        <li class="wow fadeInUp" data-wow-duration="800ms" data-wow-delay="200ms"><i class="fa fa-angle-right"></i> We are committed.</li>
+                        <li class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms"><i class="fa fa-angle-right"></i> We deliver quality.</li>
+                        <li class="wow fadeInUp" data-wow-duration="600ms" data-wow-delay="400ms"><i class="fa fa-angle-right"></i> We follow the right communication protocols</li>
+                        <li class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms"><i class="fa fa-angle-right"></i> We use the right tools to make sure everything is done right!</li>
+                        <li class="wow fadeInUp" data-wow-duration="900ms" data-wow-delay="100ms"><i class="fa fa-angle-right"></i> We are good at what we do!</li>
                     </ul>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                             <img src="images/services/AngularJS-logo.png" alt="">
                         </div>
                         <h2>AngularJS</h2>
-                        <p>Hamburger ribeye drumstick turkey, strip steak sausage ground round shank pastrami beef brisket pancetta venison.</p>
+                        <p>Great experience in building web application using one of most favored platform for amazing single page applications!</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -96,7 +96,7 @@
                             <img src="images/services/Node.js-logo.png" alt="">
                         </div>
                         <h2>Node.js</h2>
-                        <p>Venison tongue, salami corned beef ball tip meatloaf bacon. Fatback pork belly bresaola tenderloin bone pork kevin shankle.</p>
+                        <p>NodeJs is relatively new and extremely fast. If you want lightening fast reflexes in you web application then NodeJs is just what the doctor ordered!</p>
                     </div>
                 </div>
 
@@ -106,7 +106,8 @@
                             <img src="images/services/Meanstack-logo.jpg" alt="">
                         </div>
                         <h2>MEAN Stack</h2>
-                        <p>Ground round tenderloin flank shank ribeye. Hamkevin meatball swine. Cow shankle beef sirloin chicken ground round.</p>
+                        <p>We can build powerful single page applications with <b>M</b>-Mongo <b>E</b>-Express <b>A</b>-Angular <b>N</b>-Node stack for both desktop as well as for mobile.
+                        </p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -114,8 +115,9 @@
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
                             <img src="images/services/Android-logo.png" alt="">
                         </div>
-                        <h2>Superior Typography</h2>
-                        <p>Hamburger ribeye drumstick turkey, strip steak sausage ground round shank pastrami beef brisket pancetta venison.</p>
+                        <h2>Android</h2>
+                        <p>We have good experience in building simple to
+                        awesome mobile applications. Android apps for mobile or tabs we can build it all.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -123,8 +125,9 @@
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
                             <img src="images/services/db.png" alt="">
                         </div>
-                        <h2>Swift Page Builder</h2>
-                        <p>Venison tongue, salami corned beef ball tip meatloaf bacon. Fatback pork belly bresaola tenderloin bone pork kevin shankle.</p>
+                        <h2>Databases</h2>
+                        <p>SQL or NoSQL database, no problem. If you want
+                        lightening fast application then NoSQL is the option for you. Super reliable application then SQL!</p>
                     </div>
                 </div>
             </div>
@@ -132,7 +135,7 @@
     </section>
     <!--/#services-->
 
-    <section id="recent-projects" class="recent-projects">
+  <!--   <section id="recent-projects" class="recent-projects">
         <div class="container">
             <div class="row">
                 <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Recent Projects</h1>
@@ -276,7 +279,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--/#recent-projects-->
 
     <?php
