@@ -78,7 +78,7 @@
                             <img src="images/services/Delphi-logo.png" alt="">
                         </div>
                         <h2>Delphi</h2>
-                        <p>We have over 6 + years of experience in Delphi programming language, right from Delphi 6 till RAD Studio 10.1 Berlin.</p>
+                        <p>We have over 6 + years of experience in <a href="https://www.embarcadero.com/products/delphi/"> Delphi </a> programming language, right from Delphi 6 till RAD Studio 10.1 Berlin.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -87,7 +87,7 @@
                             <img src="images/services/AngularJS-logo.png" alt="">
                         </div>
                         <h2>AngularJS</h2>
-                        <p>Great experience in building web application using one of most favored platform for amazing single page applications!</p>
+                        <p>Great experience in building web application using <a href="http://angularjs.org/"> Angularjs</a>, one of most favored platform for amazing single page applications!</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -96,7 +96,7 @@
                             <img src="images/services/Node.js-logo.png" alt="">
                         </div>
                         <h2>Node.js</h2>
-                        <p>NodeJs is relatively new and extremely fast. If you want lightening fast reflexes in you web application then NodeJs is just what the doctor ordered!</p>
+                        <p>NodeJs is relatively new and extremely fast. If you want lightening fast reflexes in you web application then <a href="https://nodejs.org/en/"> Node.js </a> is just what the doctor ordered!</p>
                     </div>
                 </div>
 
@@ -105,7 +105,7 @@
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
                             <img src="images/services/Meanstack-logo.jpg" alt="">
                         </div>
-                        <h2>MEAN Stack</h2>
+                        <h2><a href="https://meanjs.org/"> MEAN </a> Stack</h2>
                         <p>We can build powerful single page applications with <b>M</b>-Mongo <b>E</b>-Express <b>A</b>-Angular <b>N</b>-Node stack for both desktop as well as for mobile.
                         </p>
                     </div>
@@ -117,7 +117,17 @@
                         </div>
                         <h2>Android</h2>
                         <p>We have good experience in building simple to
-                        awesome mobile applications. Android apps for mobile or tabs we can build it all.</p>
+                        awesome mobile applications. <a href="https://www.android.com/intl/en_in/"> Android </a> apps for mobile or tabs we can build it all.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <div class="single-service">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                            <img src="images/services/electron-logo.png" alt="">
+                        </div>
+                        <h2>Cross platform desktop apps</h2>
+                        <p>Using powerful JavaScript platform called <a href="http://electron.atom.io/">Electron</a>
+                        we can build cross platform app with ease! </p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -127,7 +137,10 @@
                         </div>
                         <h2>Databases</h2>
                         <p>SQL or NoSQL database, no problem. If you want
-                        lightening fast application then NoSQL is the option for you. Super reliable application then SQL!</p>
+                        lightening fast application then NoSQL is the option for you If you Super reliable application then go for SQL!
+                        * <a href="https://www.mysql.com/"> MySQL </a> * <a href="https://www.microsoft.com/en-in/cloud-platform/sql-server"> MS SQL Server </a> * <a href="https://www.postgresql.org/"> PostgreSql </a>
+                        * <a href="https://www.mongodb.com/">
+                        </p>
                     </div>
                 </div>
             </div>

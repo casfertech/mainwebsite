@@ -56,6 +56,7 @@
                     <li><a class="btn btn-default" href="#" data-filter=".desktop">Desktop</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".opensource">Open source</a></li>
                     <li><a class="btn btn-default" href="#" data-filter=".casestudies">Case studies</a></li>
+                    <li><a class="btn btn-default" href="#" data-filter=".web">Web</a></li>
                 </ul><!--/#portfolio-filter-->
                     
                 <div class="portfolio-items">
@@ -129,6 +130,24 @@
                             </div>
                             <div class="portfolio-info ">
                                 <h2>Sailing Vivamus</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item web">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-single">
+                                <div class="portfolio-thumb">
+                                    <img src="images/portfolio/drivinghorrors.png" class="img-responsive" alt="">
+                                </div>
+                                <div class="portfolio-view">
+                                    <ul class="nav nav-pills">
+                                        <li><a href="http://drivinghorrors.com/" target="_blank"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="images/portfolio/drivinghorrors.png" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="portfolio-info ">
+                                <h2>DrivingHorrors</h2>
                             </div>
                         </div>
                     </div>
