@@ -58,7 +58,7 @@
                     <div class="project-name overflow">
                         <h2 class="bold">Product sourcing</h2>
                         <ul class="nav navbar-nav navbar-default">
-                            <li><a href="#"><i class="fa fa-clock-o"></i>September, 2016</a></li>
+<!--                             <li><a href="#"><i class="fa fa-clock-o"></i>September, 2016</a></li> -->
                             <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
                         </ul>
                     </div>
@@ -89,9 +89,40 @@
         </div>
     </section>
 
-     <section>
+    <!--/#page-breadcrumb-->
+
+    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <img src="images/sourcing/industrial.png" class="margin-bottom" alt="">
+                    <h1 class="margin-bottom">Industrial sourcing</h1>
+                    <p>Source from the best vendors with competitive pricing.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="col-sm-12 text-center bottom-separator">
+      <hr>      
+    </div>
+
+    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <img src="images/sourcing/product-sourcing.png" class="margin-bottom" alt="">
+                    <h1 class="margin-bottom">E-commerce sourcing</h1>
+                    <p>Find trending products with our research expertise and source from the best vendors to provide the best deals across E-commerce platforms.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
        </br>
-      </section>
+    </section>
      <!--/#portfolio-information-->
     <?php
         include "footer.php";
