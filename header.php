@@ -7,6 +7,7 @@
                             <li><a href="https://www.facebook.com/freightrates.in" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/casfertech" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://www.linkedin.com/in/freightrates-in-9049a0127" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="third-party.php" ><i class="fa fa-star" aria-hidden="true"></i></a></li>
                         </ul>
                     </div> 
                 </div>
