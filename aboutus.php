@@ -54,10 +54,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <img src="images/aboutus/5.png" class="margin-bottom" alt="">
+                    <img src="images/logo.png" class="margin-bottom" alt="">
                     <h1 class="margin-bottom">About Our Company</h1>
-                    <p>Working hard to get you the best of software development, 
-                        Web development and product sourcing all in one!</p>
+                    <p>Working hard to get you the best of software development, consulting product sourcing all in one!</p>
                 </div>
             </div>
         </div>
@@ -73,19 +72,19 @@
                 <div class="row">
                     <div class="action count">
                         <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="7000" data-speed="3000" data-from="0"></h1>   
+                            <h1 class="timer bold" data-to="5" data-speed="3000" data-from="0"></h1>   
                             <h3>Happy Clients</h3>
                         </div>
                         <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="12" data-speed="3000" data-from="0"></h1>   
+                            <h1 class="timer bold" data-to="1" data-speed="3000" data-from="0"></h1>   
                             <h3>Years in Business</h3> 
                         </div>
                         <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="432" data-speed="3000" data-from="0"></h1> 
-                            <h3>Cups of Coffee</h3>
+                            <h1 class="timer bold" data-to="10" data-speed="3000" data-from="0"></h1> 
+                            <h3>Case studies</h3>
                         </div>
                         <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="145" data-speed="3000" data-from="0"></h1> 
+                            <h1 class="timer bold" data-to="10" data-speed="3000" data-from="0"></h1> 
                             <h3>Total Project</h3>
                         </div>
                     </div>
@@ -106,7 +105,7 @@
                             </div>
                             <div class="col-sm-7">
                                 <h3 class="top-zero">Who we are</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. <br> <br> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+                                <p>Engineers from Goa with a big aim to make it big!.</p>
                             </div>
                         </div>
                     </div>
@@ -114,21 +113,27 @@
                         <div class="our-skills">
                             <h2 class="bold">Our Skills</h2>
                             <div class="single-skill">
-                                <h3>Design</h3>
+                                <h3>Software development</h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="35">35%</div>
+                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="90">90%</div>
                                 </div>
                             </div>
                             <div class="single-skill">
-                                <h3>HTML</h3>
+                                <h3>Product sourcing</h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="80">80%</div>
+                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="95">95%</div>
                                 </div>
                             </div>
                             <div class="single-skill">
-                                <h3>PHP</h3>
+                                <h3>Market research</h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="60">60%</div>
+                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="100">100%</div>
+                                </div>
+                            </div>
+                            <div class="single-skill">
+                                <h3>Consulting</h3>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="100">100%</div>
                                 </div>
                             </div>
                         </div>

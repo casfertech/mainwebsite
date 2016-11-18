@@ -52,7 +52,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="images/portfolio-details/product-sourcing.png" class="img-responsive" alt="">
+                    <img src="images/portfolio-details/product-sourcing.jpg" class="img-responsive" alt="">
                 </div>
                 <div class="col-sm-6">
                     <div class="project-name overflow">
