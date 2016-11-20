@@ -422,7 +422,7 @@
                         <h2 class="page-header">Testimonial</h2>
                         <div class="testimonial">
                             <div class="media">
-                                <div class="pull-left">
+                                <div >
                                     <a href="#"><img src="images/home/profile1.png" alt=""></a>
                                 </div>
                                 <div class="media-body">

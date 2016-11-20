@@ -36,7 +36,14 @@
                                 <li><a href="software-development.php">Software development</a></li>
 <!--                                 <li><a href="portfolio-details.php">Web development</a></li> -->
                                 <li><a href="freightrates.php">FreightRates</a></li>  
-                                <li><a href="product-sourcing.php">Product sourcing</a></li>
+                                <li class="dropdown"> <a href="#">Sourcing</a>
+                                    <ul >
+                                        <li><a href="industial-sourcing.php">Industrial sourcing</a></li>
+                                        <li><a href="e-commerce-sourcing.php">E commerce sourcing</a></li>
+                                        <li><a href="services-sourcing.php">Services sourcing</a></li>
+                                    </ul>
+                                <!-- <a href="product-sourcing.php">Product sourcing</a> -->
+                                </li>
                                 <li><a href="coming-soon.php">Coming soon</a></li>
                             </ul>
                         </li>                    
