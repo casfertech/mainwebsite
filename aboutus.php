@@ -54,7 +54,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <img src="images/logo.png" class="margin-bottom" alt="">
+                    <img src="images/logo_big.png" class="margin-bottom" alt="">
                     <h1 class="margin-bottom">About Our Company</h1>
                     <p>Working hard to get you the best of software development, consulting product sourcing all in one!</p>
                 </div>
