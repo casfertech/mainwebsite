@@ -24,7 +24,7 @@
                     </button>
 
                     <a class="navbar-brand" href="index.php">
-                    	<h1><img src="images/logo.png" alt="logo"></h1>
+                    	<h1><img src="images/logo.png" alt="logo">Casfer Technologies</h1>
                     </a>
                     
                 </div>
