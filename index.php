@@ -12,6 +12,7 @@
     <link href="css/lightbox.css" rel="stylesheet"> 
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="images/favicon.png" />
 
 
     <!--[if lt IE 9]>
