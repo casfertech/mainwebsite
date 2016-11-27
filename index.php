@@ -147,6 +147,7 @@
     </section>
      <!--/#features-->
 
+<!-- http://bootsnipp.com/snippets/8xDZ -->
     <section id="clients">
         <div class="container">
             <div class="row">
@@ -154,26 +155,50 @@
                     <div class="clients text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                         <p><img src="images/home/clients.png" class="img-responsive" alt=""></p>
                         <h1 class="title">Happy Clients</h1>
-                        <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud </p>
+                        <p> Happy clients make us happy <br> Check out our ever growing list of clients (happy)! </p>
                     </div>
                     <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client1.png" class="img-responsive" alt=""></a>
-                        </div>
-                        <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client2.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client3.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client4.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client5.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client6.png" class="img-responsive" alt=""></a>
+                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                          <!-- Wrapper for slides -->
+                          <div class="carousel-inner">        
+                                <div class="item active container">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                </div>
+                                
+                                <div class="item container">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                  </div>
+                                
+                                <div class="item container">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
+                                 </div>
+                           </div>
+
+                            <div align="center" style="margin-top:20px;">
+                            <!-- Controls -->
+                                  <a class="left" href="#carousel-example-generic" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                  </a>
+                                  <a class="right" href="#carousel-example-generic" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                  </a>
+                            </div>
+  
                         </div>
                     </div>
                 </div>
@@ -181,6 +206,7 @@
         </div>
      </section>
     <!--/#clients-->
+
 
     <?php
         include "footer.php";
