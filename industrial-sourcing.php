@@ -66,15 +66,14 @@
                         <h3>The best vendors with competitive pricing</h3>
                         <ul class="elements">
                             <li><i class="fa fa-angle-right"></i>Locate the best manufacturing facilities for your products.</li>
-                            <li><i class="fa fa-angle-right"></i>Reduce the cost of manufacturing and improve profit margin.</li>
-                            <li><i class="fa fa-angle-right"></i>Detailed...........</li>
-                            <li><i class="fa fa-angle-right"></i>We negotiate and finalize the best price  for your product requirement.</li>
-                        <li><i class="fa fa-angle-right"></i>We assist in maintaining quality, schedule inspection and maintain standards as per set
-                        frame works.</li>
+                            <li><i class="fa fa-angle-right"></i>Reduce the cost of manufacturing and improve bottom lines (profits).</li>
+                            <li><i class="fa fa-angle-right"></i>Detailed evaluation matrix to find the  best vendor.</li>
+                            <li><i class="fa fa-angle-right"></i>We negotiate and finalize the best price for your product requirements.</li>
+                        <li><i class="fa fa-angle-right"></i>We assist in maintaining quality, schedule inspection and maintain standards as per set frame work.</li>
                         <p> We would be glad to assist you in sourcing top quality and price competitive components from trusted suppliers in all over the world.</p>
                         </ul>
                     </div>
-                    <div class="skills overflow">
+<!--                     <div class="skills overflow">
                         <h3>Skills:</h3>
                         <ul class="nav navbar-nav navbar-default">
                             <li><a href="#"><i class="fa fa-check-square"></i>Research</a></li>
@@ -82,7 +81,7 @@
                             <li><a href="#"><i class="fa fa-check-square"></i>Market</a></li>
                             <li><a href="#"><i class="fa fa-check-square"></i>High Quality</a></li>
                         </ul>
-                    </div>
+                    </div> -->
 <!--                     <div class="live-preview">
                         <a href="http://freightrates.in/" class="btn btn-common uppercase">Live preview</a>
                     </div> -->
@@ -103,11 +102,10 @@
                   </div>
                     <div class="project-info">
                         <ul class="elements">
-                            <li><i class="fa fa-angle-right"></i> Eliminate bottlenecks.</li>
-                            <li><i class="fa fa-angle-right"></i>Reduce cost and improve.......</li>
-                            <li><i class="fa fa-angle-right"></i>Detailed...........</li>
+                            <li><i class="fa fa-angle-right"></i>Eliminate bottlenecks.</li>
+                            <li><i class="fa fa-angle-right"></i>Reduce cost and improve spend management.</li>
                             <li><i class="fa fa-angle-right"></i>Maintain optimum quality.</li>
-                           <li><i class="fa fa-angle-right"></i>..............</li>
+                           <li><i class="fa fa-angle-right"></i>Improved bottom lines (profits)</li>
                         </ul>
                     </div>
                 </div>

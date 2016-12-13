@@ -39,7 +39,7 @@
                     <div class="action">
                         <div class="col-sm-12">
                             <h1 class="title">Services Sourcing</h1>
-                            <p>.....................</p>
+                            <p>Helping you serve customers efficiently</p>
                         </div>
                     </div>
                 </div>
@@ -67,13 +67,13 @@
                         <ul class="elements">
                             <li><i class="fa fa-angle-right"></i>Focus on your core competencies and outsource functions for maximizing value.</li>
                             <li><i class="fa fa-angle-right"></i>We assists in finding the best outsourcing firms.</li>
-                            <li><i class="fa fa-angle-right"></i>Detailed and continued evaluations. Tailored matrix so as to identify and evaluate firms in line with your request.</li>
+                            <li><i class="fa fa-angle-right"></i>Detailed and customised evaluation matrix tailored to identify and evaluate firms in line with your requirements.</li>
                             <li><i class="fa fa-angle-right"></i>Float RFP to find the best fit.</li>
                             <li><i class="fa fa-angle-right"></i>Evaluate and negotiate on your behalf.</li>
-                            <li><i class="fa fa-angle-right"></i>Setup contracts, NDA.........</li>
+                            <li><i class="fa fa-angle-right"></i>Setup contracts, NDAs & finalise deals.</li>
                         </ul>
                     </div>
-                    <div class="skills overflow">
+<!--                     <div class="skills overflow">
                         <h3>Skills:</h3>
                         <ul class="nav navbar-nav navbar-default">
                             <li><a href="#"><i class="fa fa-check-square"></i>Research</a></li>
@@ -81,7 +81,7 @@
                             <li><a href="#"><i class="fa fa-check-square"></i>Market</a></li>
                             <li><a href="#"><i class="fa fa-check-square"></i>High Quality</a></li>
                         </ul>
-                    </div>
+                    </div> -->
 <!--                     <div class="live-preview">
                         <a href="http://freightrates.in/" class="btn btn-common uppercase">Live preview</a>
                     </div> -->
@@ -92,14 +92,21 @@
 
     <!--/#page-breadcrumb-->
 
+
     <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                   <div class="col-sm-12 text-center">
-    <!--                 <img src="images/sourcing/industrial.png" class="margin-bottom" alt=""> -->
+                    <img src="images/sourcing/product-sourcing.png" class="margin-bottom" alt="">
                     <h1 class="margin-bottom">Benefits</h1>
                   </div>
+                    <div class="project-info">
+                        <ul class="elements">
+                            <li><i class="fa fa-angle-right"></i>Increased Output.</li>
+                            <li><i class="fa fa-angle-right"></i>Reduction in effort & cost.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

@@ -65,19 +65,15 @@
                     <div class="project-info overflow">
                         <h3>The best vendors with competitive pricing</h3>
                         <ul class="elements">
-                            <li><i class="fa fa-angle-right"></i>Find trendy products with our research experts and source from the best vendors to provide the best deals across E-commerce platforms.</li>
+                            <li><i class="fa fa-angle-right"></i>Find trending products with our research expertise and source from the best vendors to provide the best deals across E-commerce platforms.</li>
                             <li><i class="fa fa-angle-right"></i>We assist in building your product portfolios across platforms.</li>
-                            <li><i class="fa fa-angle-right"></i>Find.....</li>
+                            <li><i class="fa fa-angle-right"></i>Find manufacturers and distributors for made to stock items at competitive rates.</li>
                             <li><i class="fa fa-angle-right"></i>Evaluate and negotiate the best deals.</li>
-                            <li><i class="fa fa-angle-right"></i>
-                            Finalize orders for shipment.            
-                            </li>
-                            <li><i class="fa fa-angle-right"></i>
-                            Purchase and inventory management solution.            
-                            </li>
+                            <li><i class="fa fa-angle-right"></i>Finalize orders for shipment.</li>
+                            <li><i class="fa fa-angle-right"></i>Purchase and inventory management solutions.</li>
                         </ul>
                     </div>
-                    <div class="skills overflow">
+<!--                     <div class="skills overflow">
                         <h3>Skills:</h3>
                         <ul class="nav navbar-nav navbar-default">
                             <li><a href="#"><i class="fa fa-check-square"></i>Research</a></li>
@@ -85,7 +81,7 @@
                             <li><a href="#"><i class="fa fa-check-square"></i>Market</a></li>
                             <li><a href="#"><i class="fa fa-check-square"></i>High Quality</a></li>
                         </ul>
-                    </div>
+                    </div> -->
 <!--                     <div class="live-preview">
                         <a href="http://freightrates.in/" class="btn btn-common uppercase">Live preview</a>
                     </div> -->
@@ -106,9 +102,9 @@
                   </div>
                     <div class="project-info">
                         <ul class="elements">
-                            <li><i class="fa fa-angle-right"></i> Revenue across products.</li>
+                            <li><i class="fa fa-angle-right"></i>Increase Revenue across product categories.</li>
                             <li><i class="fa fa-angle-right"></i>Reduce buying cost.</li>
-                            <li><i class="fa fa-angle-right"></i>Track orders and inventory for better...............</li>
+                            <li><i class="fa fa-angle-right"></i>Track orders and inventory for better spend management.</li>
                         </ul>
                     </div>
                 </div>

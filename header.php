@@ -38,7 +38,7 @@
                                 <li><a href="freightrates.php">FreightRates</a></li>  
                                 <li class="dropdown"> <a href="#">Sourcing</a>
                                     <ul >
-                                        <li><a href="industial-sourcing.php">Industrial sourcing</a></li>
+                                        <li><a href="industrial-sourcing.php">Industrial sourcing</a></li>
                                         <li><a href="e-commerce-sourcing.php">E commerce sourcing</a></li>
                                         <li><a href="services-sourcing.php">Services sourcing</a></li>
                                     </ul>
