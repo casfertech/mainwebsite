@@ -120,26 +120,26 @@
                 <div class="testimonial">
                     <div class="media">
                         <div class="pull-left">
-                            <a href="#"><img src="images/home/profile1.png" alt=""></a>
+                            <a href="#"><img src="images/clients/logo_1.png" alt=""></a>
                         </div>
                         <div class="media-body">
-                            <blockquote>Nisi commodo bresaola, leberkas venison eiusmod bacon occaecat labore tail.</blockquote>
-                            <h3><a href="#">- Jhon Kalis</a></h3>
+                            <blockquote>Aided us successfully in our project.</blockquote>
+                            <h3><a href="#">- Martin Makundi</a></h3>
                         </div>
                     </div>
                     <div class="media">
-                        <div class="pull-left">
+<!--                         <div class="pull-left">
                             <a href="#"><img src="images/home/profile2.png" alt=""></a>
                         </div>
                         <div class="media-body">
                             <blockquote>Capicola nisi flank sed minim sunt aliqua rump pancetta leberkas venison eiusmod.</blockquote>
                             <h3><a href="">- Abraham Josef</a></h3>
-                        </div>
+                        </div> -->
                     </div>   
                 </div>
             </div>
 
-            <div class="col-md-6">
+<!--             <div class="col-md-6">
                 <h2 class="page-header">Blockquote</h2>
                 <blockquote>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
@@ -149,7 +149,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
                     <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
                 </blockquote>
-            </div>
+            </div> -->
         </div>
     </div><!--/#testimonial-container-->
 </div>
