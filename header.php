@@ -53,7 +53,7 @@
                             </ul>
                         </li> 
 
-                        <li><a href="http://casfertech.github.io/" target="_blank">Blog</a></li>
+                        <li><a href="http://casfertechnologies.com/blog/" target="_blank">Blog</a></li>
                         <li><a href="contact.php">Contact us </a></li>                        
                         <li><a href="aboutus.php">About us</a></li>                    
                     </ul>
