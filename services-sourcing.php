@@ -124,7 +124,7 @@
                         </div>
                         <div class="media-body">
                             <blockquote>Aided us successfully in our project.</blockquote>
-                            <h3><a href="#">- Martin Makundi</a></h3>
+                            <h3><a href="#">- Martin Makundi, CTO</a></h3>
                         </div>
                     </div>
                     <div class="media">
