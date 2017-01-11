@@ -46,12 +46,14 @@
    </section>
     <!--/#page-breadcrumb-->
 
-    <section id="company-information" class="choose">
+<!--     <section id="company-information" class="choose">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
+                <div class="col-sm-12 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <img src="images/services/software-developmet.png" class="img-responsive" alt="">
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-sm-6 padding-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <h2>Why Choose Us?</h2>
                     <p></p>
@@ -66,8 +68,33 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--/#company-information-->
+    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1 class="margin-bottom">Software development kitchen</h1>
+                    <p>
+It is our fun area, Dreams coming to reality and building stuff that matters. It more like a kitchen with right mix of AngularJS, NodeJS, MEAN stack, MySQL,  MongoDB to bake a perfect Web app of your taste. We also make a whole lot of starters for web (Simple website to hosting space). <br/>
+
+For the main course in Desktop we have expert chefs with years of right experience in providing you the perfect blend of simplicity, fast and reliable software. We use the best ingredient for main course too, from Delphi (For rapid application development in desktop and mobile), VB, Electron for cross platform apps to suit your palate.<br/>
+
+When it comes to dessert, our mobile developers will bake the best looking yet consistent and pace-full app for both Android and iOS. Not only that, we can make cross platform apps with HTML5, AngularJS too!<br/>
+
+We also work also work with existing projects, just in case you would like to improve the software or migrate to a newer version, our team of super chefs will help you.<br/>
+
+If you would like to have a custom software designed specifically for you needs, look no further! 
+If your aging software is slowing down or it needs a makeover or you would like us to decide if we need to upgrade the internal working of the app AKA application re-engineering, we can do that too.<br/>
+
+While we bake you a pretty looking, fast and easy to use software, we make sure we use the best practises and the best tool the money can buy. Making sure no bugs go un noticed (nobody likes them). For project management we have experience with JIRA. Our QA team uses MantisBT for tracking those nasty bugs.<br/>
+
+We don’t believe in ordering from outside or the fast food. We are superheroes, we do it ourselves. Plus, it’s expensive out these days.
+</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section id="services">
         <div class="container">

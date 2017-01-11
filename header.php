@@ -44,18 +44,17 @@
                                     </ul>
                                 <!-- <a href="product-sourcing.php">Product sourcing</a> -->
                                 </li>
-                                <li><a href="coming-soon.php">Coming soon</a></li>
+                              <!--   <li><a href="coming-soon.php">Coming soon</a></li> -->
                             </ul>
                         </li>                    
-                        <li class="dropdown"><a href="#">Portfolio <i class="fa fa-angle-down"></i></a>
+<!--                         <li class="dropdown"><a href="#">Portfolio <i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
                                 <li><a href="portfolio.php">All</a></li>
                             </ul>
-                        </li> 
-
+                        </li>  -->
+                        <li><a href="aboutus.php">About us</a></li>
                         <li><a href="http://casfertechnologies.com/blog/" target="_blank">Blog</a></li>
-                        <li><a href="contact.php">Contact us </a></li>                        
-                        <li><a href="aboutus.php">About us</a></li>                    
+                        <li><a href="contact.php">Contact us </a></li>                                         
                     </ul>
                 </div>
                 <div class="search">

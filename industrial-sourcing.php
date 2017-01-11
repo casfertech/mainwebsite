@@ -113,7 +113,7 @@
         </div>
     </section>
 
- <div class="container">
+<!--  <div class="container">
     <div id="testimonial-container">
         <div class="row">
             <div class="col-md-6">
@@ -152,9 +152,9 @@
                 </blockquote>
             </div>
         </div>
-    </div><!--/#testimonial-container-->
-</div>
-
+    </div>
+</div> -->
+<!--/#testimonial-container-->
     <div class="col-sm-12 text-center bottom-separator">
       <hr>      
     </div>

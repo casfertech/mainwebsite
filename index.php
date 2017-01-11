@@ -111,7 +111,7 @@
    </section>
     <!--/#action-->
 
-    <section id="features">
+<!--     <section id="features">
         <div class="container">
             <div class="row">
                 <div class="single-features">
@@ -144,7 +144,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
      <!--/#features-->
 
 <!-- http://bootsnipp.com/snippets/8xDZ -->
@@ -155,7 +155,7 @@
                     <div class="clients text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                         <p><img src="images/home/clients.png" class="img-responsive" alt=""></p>
                         <h1 class="title">Happy Clients</h1>
-                        <p> Happy clients make us happy <br> Check out our ever growing list of clients (happy)! </p>
+                        <p> Happy clients make us happy <br> Check out some of our clients (happy)! </p>
                     </div>
                     <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">

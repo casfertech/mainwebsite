@@ -45,6 +45,17 @@
         </div>
    </section>
     <!--/#action-->
+    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1 class="margin-bottom">About Our Company</h1>
+                    <p>Usually we sense the trouble and we come to your aid. If you find our email or a phone call DO NOT ignore us. We are reaching you ‘cause you are in trouble Or Alternatively you can reach us too on</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/#about-company-->
 
     <section id="map-section">
         <div class="container">
