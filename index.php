@@ -28,9 +28,24 @@
 
 <body>
 
+
+
     <?php
         include "header.php";
     ?>
+
+<!--     <div class="homepage-hero-module">
+    <div class="video-container">
+        <div class="filter"></div>
+        <video autoplay loop class="fillWidth">
+            <source src="video/The-Launch.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+            <source src="video/The-Launch.mp4" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+        <div class="poster hidden">
+            <img src="images/logo.png" alt="">
+        </div>
+    </div>
+</div> -->
 
     <section id="home-slider">
         <div class="container">
@@ -41,12 +56,23 @@
                         </br>
                         <p>Supply chain through technology</p>
                     </div>
-                    <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
+<!--             <video width="100%" height="240" controls>
+  <source src="video/casfer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
+
+<!-- <video id="my-video" class="video" muted loop>
+  <source src="video/casfer.mp4" type="video/mp4">
+  <source src="video/casfer.ogv" type="video/ogg">
+  <source src="video/casfer.webm" type="video/webm">
+</video> --><!-- /video -->
+
+<!--                     <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
                     <img src="images/home/slider/house.png" class="slider-house" alt="slider image">
-                    <img src="images/home/slider/sun.png" class="slider-sun" alt="slider image">
+                    <img src="images/home/slider/sun.png" class="slider-sun" alt="slider image"> -->
                     <!-- <img src="images/home/slider/birds1.png" class="slider-birds1" alt="slider image"> -->
-                    <img src="images/home/slider/birds2.png" class="slider-birds2" alt="slider image">
-                    <img src="images/home/truck.png" class="slider-cycle" alt="">
+           <!--          <img src="images/home/slider/birds2.png" class="slider-birds2" alt="slider image">
+                    <img src="images/home/truck.png" class="slider-cycle" alt=""> -->
                     
                 </div>
             </div>
@@ -55,34 +81,34 @@
     </section>
     <!--/#home-slider-->
 
-    <section id="services">
-        <div class="container">
+    <section id="services" >
+        <div class="container" style="visibility:hidden">
             <div class="row">
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <img src="images/home/pic01.png" alt="">
+                            <!-- <img src="images/home/pic01.png" alt=""> -->
                         </div>
-                        <h2>FreightRates</h2>
-                        <p>Our flagship service, bringing the transporters and customer closer.</p>
+                        <h2></h2>
+                        <p></p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <img src="images/home/icon2.png" alt="">
+                            <!-- <img src="images/home/icon2.png" alt=""> -->
                         </div>
-                        <h2>Software Development</h2>
-                        <p>Catering to all your software needs. Desktop, web or mobile look no further!</p>
+                        <h2></h2>
+                        <p></p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                            <img src="images/home/icon3.png" alt="">
+                            <!-- <img src="images/home/icon3.png" alt=""> -->
                         </div>
-                        <h2>Product Sourcing</h2>
-                        <p>A venture based in India in the process of simplifying and revolutionizing supply chain processes for our customers.</p>
+                        <h2></h2>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -153,7 +179,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="clients text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <p><img src="images/home/clients.png" class="img-responsive" alt=""></p>
+                        <p><img src="images/home/client-map.png" class="img-responsive" alt=""></p>
                         <h1 class="title">Happy Clients</h1>
                         <p> Happy clients make us happy <br> Check out some of our clients (happy)! </p>
                     </div>
@@ -217,6 +243,22 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/lightbox.min.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>   
+    <script type="text/javascript" src="js/main.js"></script> 
+    <script>
+(function() {
+  /**
+   * Video element
+   * @type {HTMLElement}
+   */
+  var video = document.getElementById("my-video");
+
+  /**
+   * Check if video can play, and play it
+   */
+  video.addEventListener( "canplay", function() {
+    video.play();
+  });
+})();
+</script>  
 </body>
 </html>

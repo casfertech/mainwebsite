@@ -278,6 +278,7 @@ h3 {
     padding: 20px;
     text-transform: uppercase;
     font-weight: 300;
+    font-weight: bold;
 }
 
 #header .navbar-inverse .navbar-nav li.active > a,
