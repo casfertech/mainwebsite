@@ -11,6 +11,7 @@
     <link href="css/animate.min.css" rel="stylesheet"> 
     <link href="css/lightbox.css" rel="stylesheet"> 
 	<link href="css/main.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
     <link rel="icon" type="image/png" href="images/favicon.png" />
 
@@ -34,7 +35,7 @@
         include "header.php";
     ?>
 
-<!--     <div class="homepage-hero-module">
+    <div class="homepage-hero-module">
     <div class="video-container">
         <div class="filter"></div>
         <video autoplay loop class="fillWidth">
@@ -45,9 +46,9 @@
             <img src="images/logo.png" alt="">
         </div>
     </div>
-</div> -->
+</div>
 
-    <section id="home-slider">
+<!--     <section id="home-slider">
         <div class="container">
             <div class="row">
                 <div class="main-slider">
@@ -56,59 +57,41 @@
                         </br>
                         <p>Supply chain through technology</p>
                     </div>
-<!--             <video width="100%" height="240" controls>
-  <source src="video/casfer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
-
-<!-- <video id="my-video" class="video" muted loop>
-  <source src="video/casfer.mp4" type="video/mp4">
-  <source src="video/casfer.ogv" type="video/ogg">
-  <source src="video/casfer.webm" type="video/webm">
-</video> --><!-- /video -->
-
-<!--                     <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
-                    <img src="images/home/slider/house.png" class="slider-house" alt="slider image">
-                    <img src="images/home/slider/sun.png" class="slider-sun" alt="slider image"> -->
-                    <!-- <img src="images/home/slider/birds1.png" class="slider-birds1" alt="slider image"> -->
-           <!--          <img src="images/home/slider/birds2.png" class="slider-birds2" alt="slider image">
-                    <img src="images/home/truck.png" class="slider-cycle" alt=""> -->
-                    
                 </div>
             </div>
         </div>
         <div class="preloader"><i class="fa fa-sun-o fa-spin"></i></div>
-    </section>
+    </section> -->
     <!--/#home-slider-->
 
     <section id="services" >
-        <div class="container" style="visibility:hidden">
+        <div class="container" >
             <div class="row">
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <!-- <img src="images/home/pic01.png" alt=""> -->
+                            <img src="images/home/pic01.png" alt="">
                         </div>
-                        <h2></h2>
-                        <p></p>
+                        <h2>FreightRates</h2>
+                        <p>Our flagship service, bringing the transporters and customer closer.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <!-- <img src="images/home/icon2.png" alt=""> -->
+                            <img src="images/home/icon2.png" alt="">
                         </div>
-                        <h2></h2>
-                        <p></p>
+                        <h2>Software Development</h2>
+                        <p>Catering to all your software needs. Desktop, web or mobile look no further!</p>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                            <!-- <img src="images/home/icon3.png" alt=""> -->
+                            <img src="images/home/icon3.png" alt="">
                         </div>
-                        <h2></h2>
-                        <p></p>
+                        <h2>Product Sourcing</h2>
+                        <p>A venture based in India in the process of simplifying and revolutionizing supply chain processes for our customers.</p>
                     </div>
                 </div>
             </div>
@@ -244,21 +227,5 @@
     <script type="text/javascript" src="js/lightbox.min.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script> 
-    <script>
-(function() {
-  /**
-   * Video element
-   * @type {HTMLElement}
-   */
-  var video = document.getElementById("my-video");
-
-  /**
-   * Check if video can play, and play it
-   */
-  video.addEventListener( "canplay", function() {
-    video.play();
-  });
-})();
-</script>  
 </body>
 </html>
