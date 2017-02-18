@@ -23,6 +23,9 @@
 </head><!--/head-->
 
 <body>
+ <?php include_once("analytics.php") ?>
+
+  
     <section id="error-page">
         <div class="error-page-inner">
             <div class="container-fluid">
