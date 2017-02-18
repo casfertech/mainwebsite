@@ -39,7 +39,7 @@
                     <div class="action">
                         <div class="col-sm-12">
                             <h1 class="title">Portfolio</h1>
-                            <p>Be Creative</p>
+                            <p>Logistics</p>
                         </div>
                     </div>
                 </div>
@@ -64,15 +64,11 @@
                     </div>
                     <div class="project-info overflow">
                         <h3>Project Info</h3>
-                        <p>Freight is our flagship service, according to survey we conducted the transportation of goods in Goa and for that matter in whole of India is highly dis organized. Its very difficult to get you hands on a transporter at reasonable price! So <b>Freightrates</b> was born to make sure its doesn't remain the same. </p>
+                        <p>Freight is our flagship service. 
+                        We don’t have a bat mobile we have something far better and far more spacious. Well Technically we don’t own it, but we know a person who let us borrow it. Reaching in time … get it time? Yeah so, me make sure that we fight through very grain of sand of the hour glass for timely delivery. Just not timely delivery, to the right person of course. It is a lot easier to deliver it to the wrong person in time. In a short time, we spun a web of connectivity - not spired man web, this is more metaphorically, or is it? <br/>
+                        Its very difficult to get your hands on a transporter at reasonable price! So <b>Freightrates</b> was born to make sure its doesn't remain the same be it for Road, Sea and Air transport. </p>
                         <ul class="elements">
-                            <li><i class="fa fa-angle-right"></i>Package Delivery</li>
-                            <p>Length, width, height & weight that's all we need to transport your freight. Get the best rates for transporting any kind of package.
-                            </p>
-
-                            <li><i class="fa fa-angle-right"></i>Vehicle Request</li>
-                            <p>From an auto carrier to a truck to a trailer. You name it, we have it. You vehicle of choice is just a click away!
-                            </p>
+                        We give the best rates for your freight!
                         </ul>
                     </div>
                     <div class="skills overflow">
