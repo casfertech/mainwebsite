@@ -13,6 +13,7 @@
     <link href="css/animate.min.css" rel="stylesheet"> 
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyAsAPMWVuOIpEwq4LtOsIlhpXhi7p9csyA"></script>
 
     <!--[if lt IE 9]>
 	    <script src="js/html5shiv.js"></script>
@@ -87,7 +88,7 @@
 
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyAsAPMWVuOIpEwq4LtOsIlhpXhi7p9csyA"></script>
+
     <script type="text/javascript" src="js/gmaps.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>   
