@@ -8,7 +8,7 @@
     <meta name="author" content="CasFer Technologies">
         <!-- Facebook and Twitter integration -->
     <meta property="og:title" content="CasFer Technologies" />
-    <meta property="og:image" content="images/logo_big.png" />
+    <meta property="og:image" content="images/favicon.png" />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="CasFer Technologies" />
     <meta property="og:description" content="CasFer Technologies" />
