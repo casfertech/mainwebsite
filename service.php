@@ -6,6 +6,16 @@
     <meta name="description" content="CASFER TECHNOLOGIES – UNDISRUPTING SUPPLY CHAINS THROUGH TECHNOLOGY!"/>
     <meta name="keywords" content="SUPPLY CHAIN , LOGISTICS , PROCUREMENT ,SOURCING ,ECOMMERCE , NEW PRODUCT DEVELOPMENT,MANUFACTURING,VENDOR DEVELOPMENT,SUPPLIERS , DEMAND ,SUPPLY ,FREIGHT RATES ,FREIGHT , PACKAGE ,DELIVERY ,ON TIME , DISTRIBUTOR , CATEGORY , AIR , SEA , ROAD , CARRIER , FREIGHT FORWARDER , LCD SCREENS, LED SCREENS, WALLET, STEEL, ALUMINIUM, PROFIT MARGIN , INVENTORY MANAGEMENT , SPEND MANAGEMENT , BOTTOM LINE , PROFITABILITY , SERVICES SOURCING , PRODUCT SOURCING ,SOFTWARE DEVELOPMENT , JAVA , ANGULAR JS , WEBSITE DEVELOPMENT , TONNES , KG , CUBIC METRE , WEIGHTS ,  VOLUME , VENDOR EVALUATION , ALIBABA SOURCING ,  MADE IN CHINA , AMAZON FBA SERVICES , EBAY SERVICES , DROP SHIPPING , CHINA SOURCING , INDIA SOURCING ,PROTOTYPE MANUFACTURING , RETAIL PRODUCT SOURCING , UPWORK SOURCING , FREELANCER , OPTIMIZING INVENTORY, ANDROID APP DEVELOPMENT, IOS APP DEVELOPMENT , LAPTOP PARTS SOURCING , CONTRACT MANUFACTURERS ,PRODUCT RESEARCHER , FREIGHTRATES.IN , E-WASTE SOURCING , EXPORTER , WEB DESIGN , SOURCING SUPPORT , VENDOR MANAGEMENT , RISK ASSESMENT FOR VENDORS , VENDOR RATING , STRATERGIC SOURCING , SOURCING PLATFORM , VENDOR NEGOTIAIONS , VENDOR EVALUATION , MAKE IN INDIA ,  GLOBAL SUPPLY CHAIN , BULK SOURCING" />    
     <meta name="author" content="CasFer Technologies">
+        <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
     <title>CasFer Technologies</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
