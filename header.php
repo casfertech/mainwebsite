@@ -24,7 +24,9 @@
                     </button>
 
                     <a class="navbar-brand" href="index.php">
+                      <div class="imgborder">
                     	<h1><img src="images/logo.png" alt="logo" width="208" height="60"></h1>
+                        </div>
                     </a>
                     
                 </div>

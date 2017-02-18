@@ -39,7 +39,7 @@
     <div class="video-container">
         <div class="filter"></div>
         <video autoplay loop class="fillWidth">
-            <source src="video/The-Launch.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+            <source src="video/2.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
             <source src="video/The-Launch.mp4" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
         </video>
         <div class="poster hidden">
@@ -172,6 +172,7 @@
                           <div class="carousel-inner">        
                                 <div class="item active container">
                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/clients/logo_1.png" alt="...">
+                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/clients/logo_2.png" alt="...">
 <!--                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
@@ -226,6 +227,70 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/lightbox.min.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
-    <script type="text/javascript" src="js/main.js"></script> 
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript">
+    //jQuery is required to run this code
+$( document ).ready(function() {
+
+    scaleVideoContainer();
+
+    initBannerVideoSize('.video-container .poster img');
+    initBannerVideoSize('.video-container .filter');
+    initBannerVideoSize('.video-container video');
+
+    $(window).on('resize', function() {
+        scaleVideoContainer();
+        scaleBannerVideoSize('.video-container .poster img');
+        scaleBannerVideoSize('.video-container .filter');
+        scaleBannerVideoSize('.video-container video');
+    });
+
+});
+
+function scaleVideoContainer() {
+
+    var height = $(window).height() + 5;
+    var unitHeight = parseInt(height) + 'px';
+    $('.homepage-hero-module').css('height',unitHeight);
+
+}
+
+function initBannerVideoSize(element){
+
+    $(element).each(function(){
+        $(this).data('height', $(this).height());
+        $(this).data('width', $(this).width());
+    });
+
+    scaleBannerVideoSize(element);
+
+}
+
+function scaleBannerVideoSize(element){
+
+    var windowWidth = $(window).width(),
+    windowHeight = $(window).height() + 5,
+    videoWidth,
+    videoHeight;
+    $(element).each(function(){
+        var videoAspectRatio = $(this).data('height')/$(this).data('width');
+
+        $(this).width(windowWidth);
+
+        if(windowWidth < 1000){
+            videoHeight = windowHeight;
+            videoWidth = videoHeight / videoAspectRatio;
+            $(this).css({'margin-top' : 0, 'margin-left' : -(videoWidth - windowWidth) / 2 + 'px'});
+
+            $(this).width(videoWidth).height(videoHeight);
+        }
+
+        $('.homepage-hero-module .video-container video').addClass('fadeIn animated');
+
+    });
+}    
+
+
+    </script> 
 </body>
 </html>

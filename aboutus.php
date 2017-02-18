@@ -48,101 +48,57 @@
             </div>
         </div>
    </section>
-    <!--/#page-breadcrumb-->
-
+    <!--/#page-breadcrumb-->    
+ 
+    <!--/#action-->
     <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <img src="images/logo_big.png" class="margin-bottom" alt="">
-                    <h1 class="margin-bottom">About Our Company</h1>
-                    <p>Working hard to get you the best of software development, consulting product sourcing all in one!</p>
+                    <h1 class="margin-bottom">The story</h1>
+                    <p>
+                        On this planet, in the Asian continent, in western India of the southern part of Goa were three young men. Lived a modest life until a strike of an idea brought them together. From 9 pm to 6 am there are simple, regular guys with normal life but from 6.01 am they are saving the world and Un-disrupting supply chains through Technology. 
+                    </p>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1 class="margin-bottom">What do we do?</h1>
+                    <p>
+                        We work. Mostly because it pays and because it is fun. When the tangle of unclear roads jumps at our client’s Destination we usually provide a Jet pack. Or sometimes when it is more difficult to find a manufacturer or a wholesaler for a Retailer (product sourcer) than a Needle in a haystack we implement what Iron man said – we get a big magnet of Researchers. There are a lot of fun stuff we do that you can also be part of. Why not write us (email link), and we promise we will get back to you by 24 hours, if we are not super busy saving the world.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1 class="margin-bottom">Casual Day at Work</h1>
+                    <p>
+                        With our suits and invisible capes hanging, flying from our backs with our charged-up finger tips on Super computers. Diving into the mail box to save the drowning ships and saving those by giving a solution of a floater. Then, flying to the various places through conference calls on various issues; Feasibility studies, Consultation, Product Research and Sourcing, Logistics, Software Development and most of the times the neighbour’s cat from the tree. By evening we are fighting our arch nemeses Time to complete the work and we defeat him every single time. (it’s funny, get it?)
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1 class="margin-bottom">Super powers</h1>
+                    <p>
+                <i>Experience</i> <br/>
+                    Unity of our experience climbs mountain of a decade – in Software Development, e commerce, supply chain management and logistics. 
+                <br/>
+                <i>Charmingly Good Looking</i> <br/>
+                If you get in a conference call with us we could take off our superhero mask to show you how devilishly handsome and charming, we are. Also, greatly, equipped with Problem Solving and Consultations skills. <br/>
+
+                <i>Humble<i/> <br/>
+                That’s not true! We are super heroes for crying out loud. Unless you see yourself as a superhero we can sit across a table. And shsss! Since you found us, you are SPEACIAL.
+
+                    </p>
+                </div>
+            </div>
+
         </div>
     </section>
     <!--/#about-company-->
-    
- 
-    <!--/#services-->
-
-    <section id="action">
-        <div class="vertical-center">
-             <div class="container">
-                <div class="row">
-                    <div class="action count">
-                        <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="5" data-speed="3000" data-from="0"></h1>   
-                            <h3>Happy Clients</h3>
-                        </div>
-                        <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="1" data-speed="3000" data-from="0"></h1>   
-                            <h3>Years in Business</h3> 
-                        </div>
-                        <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="10" data-speed="3000" data-from="0"></h1> 
-                            <h3>Case studies</h3>
-                        </div>
-                        <div class="col-sm-3 text-center wow bounceIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                            <h1 class="timer bold" data-to="10" data-speed="3000" data-from="0"></h1> 
-                            <h3>Total Project</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-   </section>
-    <!--/#action-->
-    <section id="company-information" class="padding-top">
-        <div class="container">
-            <div class="row">
-                <div class="about-us">
-                    <div class="col-sm-7 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <h2 class="bold">About Triangle</h2>
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <img src="images/aboutus/6.png" class="img-responsive" alt="">
-                            </div>
-                            <div class="col-sm-7">
-                                <h3 class="top-zero">Who we are</h3>
-                                <p>Engineers from Goa with a big aim to make it big!.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-5 wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <div class="our-skills">
-                            <h2 class="bold">Our Skills</h2>
-                            <div class="single-skill">
-                                <h3>Software development</h3>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="90">90%</div>
-                                </div>
-                            </div>
-                            <div class="single-skill">
-                                <h3>Product sourcing</h3>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="95">95%</div>
-                                </div>
-                            </div>
-                            <div class="single-skill">
-                                <h3>Market research</h3>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="100">100%</div>
-                                </div>
-                            </div>
-                            <div class="single-skill">
-                                <h3>Consulting</h3>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar"  data-transition="100">100%</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/#company-information-->
 
     <section id="team">
         <div class="container">
@@ -163,7 +119,6 @@
                                             <ul class="nav nav-pills">
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -183,7 +138,6 @@
                                             <ul class="nav nav-pills">
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -203,7 +157,6 @@
                                             <ul class="nav nav-pills">
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
