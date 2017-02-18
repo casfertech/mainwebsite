@@ -4,9 +4,9 @@
                 <div class="col-sm-12 overflow">
                    <div class="social-icons pull-right">
                         <ul class="nav nav-pills">
-                            <li><a href="https://www.facebook.com/freightrates.in" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/casfertech" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/casfertech" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="http://www.linkedin.com/in/freightrates-in-9049a0127" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/casfer-technologies" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="third-party.php" ><i class="fa fa-star" aria-hidden="true"></i></a></li>
                         </ul>
                     </div> 
@@ -59,14 +59,14 @@
                         <li><a href="contact.php">Contact us </a></li>                                         
                     </ul>
                 </div>
-                <div class="search">
+<!--                 <div class="search">
                     <form role="form">
                         <i class="fa fa-search"></i>
                         <div class="field-toggle">
                             <input type="text" class="search-form" autocomplete="off" placeholder="Search">
                         </div>
                     </form>
-                </div>
+                </div> -->
             </div>
         </div>
 </header>

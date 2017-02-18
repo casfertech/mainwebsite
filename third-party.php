@@ -77,14 +77,14 @@
     <script type="text/javascript" src="js/wow.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript">
-            //Countdown js
-         $("#countdown").countdown({
-                date: "10 November 2016 12:00:00",
-                format: "on"
-            },      
-            function() {
-                // callback function
-        });
+        //     //Countdown js
+        //  $("#countdown").countdown({
+        //         date: "10 November 2016 12:00:00",
+        //         format: "on"
+        //     },      
+        //     function() {
+        //         // callback function
+        // });
     </script>
     
 </body>
