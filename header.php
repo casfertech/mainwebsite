@@ -41,7 +41,7 @@
                                 <li class="dropdown"> <a href="#">Sourcing</a>
                                     <ul >
                                         <li><a href="industrial-sourcing.php">Industrial sourcing</a></li>
-                                        <li><a href="e-commerce-sourcing.php">E commerce sourcing</a></li>
+                                        <li><a href="e-commerce-sourcing.php">E-commerce sourcing</a></li>
                                         <li><a href="services-sourcing.php">Services sourcing</a></li>
                                     </ul>
                                 <!-- <a href="product-sourcing.php">Product sourcing</a> -->

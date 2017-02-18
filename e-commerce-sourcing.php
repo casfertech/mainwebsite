@@ -58,8 +58,7 @@
                     <div class="project-name overflow">
                         <h2 class="bold">E-commerce Sourcing</h2>
                         <ul class="nav navbar-nav navbar-default">
-<!--                             <li><a href="#"><i class="fa fa-clock-o"></i>September, 2016</a></li> -->
-                            <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
+                        <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
                         </ul>
                     </div>
                     <div class="project-info overflow">
@@ -73,34 +72,25 @@
                             <li><i class="fa fa-angle-right"></i>Purchase and inventory management solutions.</li>
                         </ul>
                     </div>
-<!--                     <div class="skills overflow">
-                        <h3>Skills:</h3>
-                        <ul class="nav navbar-nav navbar-default">
-                            <li><a href="#"><i class="fa fa-check-square"></i>Research</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Survey</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Market</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>High Quality</a></li>
-                        </ul>
-                    </div> -->
-<!--                     <div class="live-preview">
-                        <a href="http://freightrates.in/" class="btn btn-common uppercase">Live preview</a>
-                    </div> -->
                 </div>
             </div>
         </div>
     </section>
 
-    <!--/#page-breadcrumb-->
-
-    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+    <section id="portfolio-information" class="padding-top">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                  <div class="col-sm-12 text-center">
-                    <img src="images/sourcing/product-sourcing.png" class="margin-bottom" alt="">
-                    <h1 class="margin-bottom">Benefits</h1>
-                  </div>
-                    <div class="project-info">
+                <div class="col-sm-6">
+                    <img src="images/sourcing/product-sourcing.png" class="img-responsive" alt="">
+                </div>
+                <div class="col-sm-6">
+                    <div class="project-name overflow">
+                        <h2 class="bold">Benefits</h2>
+                        <ul class="nav navbar-nav navbar-default">
+                        <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
+                        </ul>
+                    </div>
+                    <div class="project-info overflow">
                         <ul class="elements">
                             <li><i class="fa fa-angle-right"></i>Increase Revenue across product categories.</li>
                             <li><i class="fa fa-angle-right"></i>Reduce buying cost.</li>
@@ -111,48 +101,7 @@
             </div>
         </div>
     </section>
-
-<!--  <div class="container">
-    <div id="testimonial-container">
-        <div class="row">
-            <div class="col-md-6">
-                <h2 class="page-header">Testimonial</h2>
-                <div class="testimonial">
-                    <div class="media">
-                        <div class="pull-left">
-                            <a href="#"><img src="images/home/profile1.png" alt=""></a>
-                        </div>
-                        <div class="media-body">
-                            <blockquote>Nisi commodo bresaola, leberkas venison eiusmod bacon occaecat labore tail.</blockquote>
-                            <h3><a href="#">- Jhon Kalis</a></h3>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="pull-left">
-                            <a href="#"><img src="images/home/profile2.png" alt=""></a>
-                        </div>
-                        <div class="media-body">
-                            <blockquote>Capicola nisi flank sed minim sunt aliqua rump pancetta leberkas venison eiusmod.</blockquote>
-                            <h3><a href="">- Abraham Josef</a></h3>
-                        </div>
-                    </div>   
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <h2 class="page-header">Blockquote</h2>
-                <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                </blockquote>
-                <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                </blockquote>
-            </div>
-        </div>
-    </div>
-</div> -->
+    <!--/#page-breadcrumb-->
 <!--/#testimonial-container-->
 
     <div class="col-sm-12 text-center bottom-separator">

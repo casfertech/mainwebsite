@@ -58,7 +58,6 @@
                     <div class="project-name overflow">
                         <h2 class="bold">Services Sourcing</h2>
                         <ul class="nav navbar-nav navbar-default">
-<!--                             <li><a href="#"><i class="fa fa-clock-o"></i>September, 2016</a></li> -->
                             <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
                         </ul>
                     </div>
@@ -73,35 +72,25 @@
                             <li><i class="fa fa-angle-right"></i>Setup contracts, NDAs & finalise deals.</li>
                         </ul>
                     </div>
-<!--                     <div class="skills overflow">
-                        <h3>Skills:</h3>
-                        <ul class="nav navbar-nav navbar-default">
-                            <li><a href="#"><i class="fa fa-check-square"></i>Research</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Survey</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>Market</a></li>
-                            <li><a href="#"><i class="fa fa-check-square"></i>High Quality</a></li>
-                        </ul>
-                    </div> -->
-<!--                     <div class="live-preview">
-                        <a href="http://freightrates.in/" class="btn btn-common uppercase">Live preview</a>
-                    </div> -->
                 </div>
             </div>
         </div>
     </section>
 
-    <!--/#page-breadcrumb-->
-
-
-    <section id="about-company" class="padding-top wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
+    <section id="portfolio-information" class="padding-top">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                  <div class="col-sm-12 text-center">
-                    <img src="images/sourcing/product-sourcing.png" class="margin-bottom" alt="">
-                    <h1 class="margin-bottom">Benefits</h1>
-                  </div>
-                    <div class="project-info">
+                <div class="col-sm-6">
+                    <img src="images/sourcing/industrial.png" class="img-responsive" alt="">
+                </div>
+                <div class="col-sm-6">
+                    <div class="project-name overflow">
+                        <h2 class="bold">Benefits</h2>
+                        <ul class="nav navbar-nav navbar-default">
+                        <li><a href="#"><i class="fa fa-tag"></i>Sourcing</a></li>
+                        </ul>
+                    </div>
+                    <div class="project-info overflow">
                         <ul class="elements">
                             <li><i class="fa fa-angle-right"></i>Increased Output.</li>
                             <li><i class="fa fa-angle-right"></i>Reduction in effort & cost.</li>
