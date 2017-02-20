@@ -38,7 +38,7 @@
                                 <li><a href="software-development.php">Software development</a></li>
 <!--                                 <li><a href="portfolio-details.php">Web development</a></li> -->
                                 <li><a href="freightrates.php">FreightRates</a></li>  
-                                <li class="dropdown"> <a href="#">Sourcing</a>
+                                <li class="dropdown"> <a>Sourcing</a>
                                     <ul >
                                         <li><a href="industrial-sourcing.php">Industrial sourcing</a></li>
                                         <li><a href="e-commerce-sourcing.php">E-commerce sourcing</a></li>
