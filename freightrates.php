@@ -74,15 +74,15 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                       <div class="item active">
-                        <img src="images/portfolio-details/freightrates-road.jpg" alt="Chania" width="460" height="345">
+                        <img src="images/portfolio-details/freightrates-road.jpg" alt="freightrates-road" width="460" height="345">
                       </div>
 
                       <div class="item">
-                        <img src="images/portfolio-details/freightrates-sea.jpg" alt="Chania" width="460" height="345">
+                        <img src="images/portfolio-details/freightrates-sea.jpg" alt="freightrates-sea" width="460" height="345">
                       </div>
                     
                       <div class="item">
-                        <img src="images/portfolio-details/freightrates-air.jpg" alt="Flower" width="460" height="345">
+                        <img src="images/portfolio-details/freightrates-air.jpg" alt="freightrates-air" width="460" height="345">
                       </div>
                     </div>
 
