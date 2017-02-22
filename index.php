@@ -43,6 +43,14 @@
     <?php include_once("analytics.php") ?>
     <?php include "header.php"; ?>
 
+    <div class="text-center">
+        <a href="#services">
+            <img class="animated infinite bounce" src="images/arrow.png">
+        </a>
+        <a href="https://youtu.be/GTGtxBusy8w" target="_blank">
+            <img class="animated infinite bounce" src="images/YouTube-icon.png">
+        </a>
+    </div>
     <div class="homepage-hero-module">
     <div class="video-container">
         <div class="filter"></div>
@@ -238,65 +246,65 @@
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript">
     //jQuery is required to run this code
-$( document ).ready(function() {
+        $( document ).ready(function() {
 
-    scaleVideoContainer();
+            scaleVideoContainer();
 
-    initBannerVideoSize('.video-container .poster img');
-    initBannerVideoSize('.video-container .filter');
-    initBannerVideoSize('.video-container video');
+            initBannerVideoSize('.video-container .poster img');
+            initBannerVideoSize('.video-container .filter');
+            initBannerVideoSize('.video-container video');
 
-    $(window).on('resize', function() {
-        scaleVideoContainer();
-        scaleBannerVideoSize('.video-container .poster img');
-        scaleBannerVideoSize('.video-container .filter');
-        scaleBannerVideoSize('.video-container video');
-    });
+            $(window).on('resize', function() {
+                scaleVideoContainer();
+                scaleBannerVideoSize('.video-container .poster img');
+                scaleBannerVideoSize('.video-container .filter');
+                scaleBannerVideoSize('.video-container video');
+            });
 
-});
+        });
 
-function scaleVideoContainer() {
+        function scaleVideoContainer() {
 
-    var height = $(window).height() + 5;
-    var unitHeight = parseInt(height) + 'px';
-    $('.homepage-hero-module').css('height',unitHeight);
+            var height = $(window).height() + 5;
+            var unitHeight = parseInt(height) + 'px';
+            $('.homepage-hero-module').css('height',unitHeight);
 
-}
-
-function initBannerVideoSize(element){
-
-    $(element).each(function(){
-        $(this).data('height', $(this).height());
-        $(this).data('width', $(this).width());
-    });
-
-    scaleBannerVideoSize(element);
-
-}
-
-function scaleBannerVideoSize(element){
-
-    var windowWidth = $(window).width(),
-    windowHeight = $(window).height() + 5,
-    videoWidth,
-    videoHeight;
-    $(element).each(function(){
-        var videoAspectRatio = $(this).data('height')/$(this).data('width');
-
-        $(this).width(windowWidth);
-
-        if(windowWidth < 1000){
-            videoHeight = windowHeight;
-            videoWidth = videoHeight / videoAspectRatio;
-            $(this).css({'margin-top' : 0, 'margin-left' : -(videoWidth - windowWidth) / 2 + 'px'});
-
-            $(this).width(videoWidth).height(videoHeight);
         }
 
-        $('.homepage-hero-module .video-container video').addClass('fadeIn animated');
+        function initBannerVideoSize(element){
 
-    });
-}    
+            $(element).each(function(){
+                $(this).data('height', $(this).height());
+                $(this).data('width', $(this).width());
+            });
+
+            scaleBannerVideoSize(element);
+
+        }
+
+        function scaleBannerVideoSize(element){
+
+            var windowWidth = $(window).width(),
+            windowHeight = $(window).height() + 5,
+            videoWidth,
+            videoHeight;
+            $(element).each(function(){
+                var videoAspectRatio = $(this).data('height')/$(this).data('width');
+
+                $(this).width(windowWidth);
+
+                if(windowWidth < 1000){
+                    videoHeight = windowHeight;
+                    videoWidth = videoHeight / videoAspectRatio;
+                    $(this).css({'margin-top' : 0, 'margin-left' : -(videoWidth - windowWidth) / 2 + 'px'});
+
+                    $(this).width(videoWidth).height(videoHeight);
+                }
+
+                $('.homepage-hero-module .video-container video').addClass('fadeIn animated');
+
+            });
+        }    
 
 
     </script> 

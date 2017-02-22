@@ -77,3 +77,12 @@
     width: 70%;
     margin: auto;
 }
+
+#wrapper {
+    position: relative;
+}
+#wrapper div, #wrapper video {
+    position: absolute;
+    top: 0;
+}
+
