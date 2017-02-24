@@ -47,7 +47,7 @@
         <a href="#services">
             <img class="animated infinite bounce" src="images/arrow.png">
         </a>
-        <a href="https://youtu.be/GTGtxBusy8w" target="_blank">
+        <a href="https://youtu.be/8rekb7XraX4" target="_blank">
             <img class="animated infinite bounce" src="images/YouTube-icon.png">
         </a>
     </div>
@@ -189,30 +189,7 @@
                                 <div class="item active container">
                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/clients/logo_1.png" alt="...">
                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/clients/logo_2.png" alt="...">
-<!--                                     <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="..."> -->
                                 </div>
-                                
-<!--                                 <div class="item container">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                  </div>
-                                
-                                <div class="item container">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                    <img class="col-md-2 col-sm-2 col-xs-2 logo img-responsive" src="images/home/client4.png" alt="...">
-                                 </div> -->
                            </div>
 
                             <div align="center" style="margin-top:20px;">
